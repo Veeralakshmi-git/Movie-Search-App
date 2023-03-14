@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+  scroll-behavior: smooth;
+} 
+
+table {
+    width: 80%;
+    table-layout: fixed;
+    margin: 0 auto;
+  }
+  
+  tbody {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  tr {
+    width: 100%;
+  }
+  thead>tr>th{
+    color: white;
+  }
+  th,
+  td {
+    
+    text-align: center;
+    font-weight: 500;
+    font-size: 17px;
+    color: black;
+  }
+  .big{
+    padding: 10px;
+  }

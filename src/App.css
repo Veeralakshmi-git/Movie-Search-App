@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App{
+  min-height: 100vh;
+  background-color: #39445a;
+  color: white;
+  padding-top: 70px;
+  
+}
