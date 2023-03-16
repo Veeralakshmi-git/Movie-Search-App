@@ -77,9 +77,6 @@ const Trending = () => {
       getPaginationRowModel: getPaginationRowModel()
     }) 
 
-    if(isLoading) return "Loading"
-    if(error) return "unExpected Error Occur" + error
-
 return (
           <div className="p-2">
           <table>
