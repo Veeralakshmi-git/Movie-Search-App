@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+
 }
 
 .App{
@@ -8,5 +9,5 @@
   background-color: #39445a;
   color: white;
   padding-top: 70px;
-  
+  overflow-x: hidden;
 }
